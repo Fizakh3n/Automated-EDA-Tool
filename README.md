@@ -41,20 +41,20 @@ To run the Automated EDA Tool locally, follow these steps:
 
 4.Access the App: Open your web browser and go to http://localhost:8501 to view the app.
 
-Usage
+## Usage
 Upload a CSV file using the provided upload button.
 Select the analysis options you want to perform (e.g., univariate, bivariate).
 View the generated visualizations and insights dynamically.
 Contributing
 Contributions are welcome! If you have suggestions or improvements, please feel free to fork the repository and submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 Thanks to the open-source community for providing the tools and libraries that made this project possible.
 
-Contact
+## Contact
 For any inquiries or feedback, please reach out to your-mfizakhan05@gmail.com
     
  
