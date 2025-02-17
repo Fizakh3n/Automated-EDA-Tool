@@ -55,6 +55,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Thanks to the open-source community for providing the tools and libraries that made this project possible.
 
 ## Contact
-For any inquiries or feedback, please reach out to your-mfizakhan05@gmail.com
+For any inquiries or feedback, please reach out to -mfizakhan05@gmail.com
     
  
