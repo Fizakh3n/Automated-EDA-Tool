@@ -9,7 +9,6 @@ The Automated EDA Tool is a web application designed to simplify exploratory dat
 - **File Upload**: Users can easily upload CSV files for analysis.
 - **Univariate Analysis**: Generate histograms and boxplots to visualize individual features.
 - **Bivariate Analysis**: Create scatterplots to understand relationships between two variables.
-- **Correlation Matrix**: Visualize correlations between features in the dataset.
 - **Missing Values**: Identify and address missing values within the data.
 - **Outlier Detection**: Visualize and understand outliers in your dataset.
 - **Dynamic Visualizations**: Interactive and responsive graphs for better insights.
