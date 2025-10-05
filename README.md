@@ -38,7 +38,7 @@ To run the Automated EDA Tool locally, follow these steps:
    ```bash
    streamlit run app.py
 
-4.Access the App: Open your web browser and go to http://localhost:8501 to view the app.
+4.Access the App: Open your web browser and go to [http://localhost:8501](https://automated-eda-tool-aakr5nhefggwrewdsytpk2.streamlit.app/) to view the app.
 
 ## Usage
 Upload a CSV file using the provided upload button.
